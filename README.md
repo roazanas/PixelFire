@@ -20,10 +20,6 @@ A HLSL shader implementation for creating a pixelated fire effect with optional 
   <img src="media/pixelfire-C30E59-E82561-C9456D.gif" alt="Hot Pink" width="128" title="Hot Pink">
 </div>
 
-## Description
-
-PixelFire is a HLSL shader for Windows Terminal that creates a procedurally generated fire effect.
-
 ## Customization Parameters
 
 ### Fire Size and Position
