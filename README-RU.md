@@ -4,14 +4,20 @@
 
 Проект PixelFire представляет собой реализацию HLSL шейдера для создания пиксельного эффекта огня с дополнительной возможностью добавления контура текста.
 
+## Терминал
+
+<div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
+  <img src="media/terminal.png" alt="Демо Windows Terminal" width="600" title="Windows Terminal с PixelFire">
+</div>
+
 ## Примеры
 
 <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
-  <img src="media/media_pixelfire-7C444F-9F5255-E16A54.gif" alt="Классический огонь" width="128" title="Классический огонь">
-  <img src="media/media_pixelfire-147380-4DA1A9-79D7BE.gif" alt="Холодный синий" width="128" title="Холодный синий">
-  <img src="media/media_pixelfire-8174A0-A888B5-EFB6C8.gif" alt="Розовое пламя" width="128" title="Розовое пламя">
-  <img src="media/media_pixelfire-C1BAA1-D7D3BF-ECEBDE.gif" alt="Теплый бежевый" width="128" title="Теплый бежевый">
-  <img src="media/media_pixelfire-C30E59-E82561-C9456D.gif" alt="Ярко-розовый" width="128" title="Ярко-розовый">
+  <img src="media/pixelfire-7C444F-9F5255-E16A54.gif" alt="Классический огонь" width="128" title="Классический огонь">
+  <img src="media/pixelfire-147380-4DA1A9-79D7BE.gif" alt="Холодный синий" width="128" title="Холодный синий">
+  <img src="media/pixelfire-8174A0-A888B5-EFB6C8.gif" alt="Розовое пламя" width="128" title="Розовое пламя">
+  <img src="media/pixelfire-C1BAA1-D7D3BF-ECEBDE.gif" alt="Теплый бежевый" width="128" title="Теплый бежевый">
+  <img src="media/pixelfire-C30E59-E82561-C9456D.gif" alt="Ярко-розовый" width="128" title="Ярко-розовый">
 </div>
 
 ## Описание
