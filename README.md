@@ -4,9 +4,15 @@ English | [Русский](README-RU.md)
 
 A HLSL shader implementation for creating a pixelated fire effect with optional text outline support.
 
-## Demo
+## Examples
 
-![Shader Demo](demo.gif)
+<div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
+  <img src="media/media_pixelfire-7C444F-9F5255-E16A54.gif" alt="Classic Fire" width="128" title="Classic Fire">
+  <img src="media/media_pixelfire-147380-4DA1A9-79D7BE.gif" alt="Cool Blue" width="128" title="Cool Blue">
+  <img src="media/media_pixelfire-8174A0-A888B5-EFB6C8.gif" alt="Pink Flame" width="128" title="Pink Flame">
+  <img src="media/media_pixelfire-C1BAA1-D7D3BF-ECEBDE.gif" alt="Warm Beige" width="128" title="Warm Beige">
+  <img src="media/media_pixelfire-C30E59-E82561-C9456D.gif" alt="Hot Pink" width="128" title="Hot Pink">
+</div>
 
 ## Description
 
